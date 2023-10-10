@@ -1,0 +1,39 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#Topo{
+    width: 75%;
+    height: 65px;
+    float: left;
+}
+#Corpo{
+    width: 75%;
+    height: 665px;
+    float: left;
+    background-color: lightgray;
+}
+#Roda{
+    width: 75%;
+    height: 65px;
+    background-color: yellow;
+    float: left;
+    
+}
+#Enquete{
+    width: 25%;
+    height: 795px;
+    background-color: gray;
+    float: right;
+}
+#Roda div a{
+    text-decoration: none;
+    margin: 50px;
+}
+#Topo img{
+    height: 65px;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
